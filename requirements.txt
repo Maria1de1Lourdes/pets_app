@@ -1,0 +1,7 @@
+requirements
+streamlit
+pandas
+openpyxl
+matplotlib
+reportlab
+pillow
